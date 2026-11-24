@@ -1,0 +1,1 @@
+export const C = { ink: '#12303A', paper: '#F4F6F6', line: '#D6DEDF', acc: '#1D6A8A', ok: '#2E7D4F', okBg: '#DDF1E4', bad: '#B3261E', badBg: '#F6DAD7', warnBg: '#FBE9C6', warn: '#7A4B00', mut: '#5A6B70', gold: '#E0B15A' };
